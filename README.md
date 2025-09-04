@@ -303,7 +303,15 @@ python prep_submission_DND.py
 ## 📝 Citation
 
 Please cite this works as:
-
-Citation will be added when available
+```
+@inproceedings{martin2025non,
+  title={Non-Local N2V: Improving N2V Networks for Spatially Correlated Noise},
+  author={Martin, Diego and Peretti, Edoardo and Boracchi, Giacomo},
+  booktitle={2025 IEEE International Conference on Image Processing (ICIP)},
+  pages={2175--2180},
+  year={2025},
+  organization={IEEE}
+}
+```
 
 
